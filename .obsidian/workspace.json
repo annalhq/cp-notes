@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "d22de41f97b93e00",
+    "type": "split",
+    "children": [
+      {
+        "id": "8247a76076fb0f88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d576eb6a59431d3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CP-Book-4/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc6a4305c264b292",
+    "type": "split",
+    "children": [
+      {
+        "id": "2469a1396da6b4c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad7c608bd5f94e05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4fa6128e715a8c54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "75f175800d77a4c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210.5
+  },
+  "right": {
+    "id": "c5261abef903b83c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd8b78515631219f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec2152cd63904093",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4 - Templates/programming note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for programming note"
+            }
+          },
+          {
+            "id": "e1bb92cac81fa78f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 - Rough Notes/Reading drawer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Reading drawer"
+            }
+          },
+          {
+            "id": "8db7c339c7ae7934",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "91a9b7190251a094",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming/haskell/Functions.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Functions"
+            }
+          },
+          {
+            "id": "722bda275482949e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "d576eb6a59431d3f",
+  "lastOpenFiles": [
+    "Templates/template.md",
+    "CP-Book-4/Introduction.md",
+    "RL/Introduction.md",
+    "Misc/agent-state.png",
+    "RL/lec1/Values.md",
+    "RL/lec1/Rewards.md",
+    "RL/lec1/Notation.md",
+    "RL/lec1/Introduction.md",
+    "RL/lec1/1.md",
+    "Templates/note template.md",
+    "RL/lec/lec1.md",
+    "RL/lec1",
+    "Misc/agent-envrionment.png",
+    "Misc",
+    "RL/lec/Introduction.md",
+    "RL/zettelkasten",
+    "RL/lec",
+    "RL",
+    "Templates",
+    "Excalidraw",
+    "Excalidraw/Drawing 2024-12-08 13.09.11.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-08 13.09.11.excalidraw.svg",
+    "Excalidraw/Drawing 2024-12-08 16.59.47.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-08 16.39.20.excalidraw.md",
+    "Programming/haskell/Functions.md",
+    "Rough Notes/Notes.md",
+    "Excalidraw/Drawing 2024-12-08 13.09.11.excalidraw.png",
+    "Excalidraw/Drawing 2024-12-08 13.01.20.excalidraw.md",
+    "Programming/haskell/Basics.md",
+    "Templates/programming note.md",
+    "basics.md",
+    "Programming/cpp/basics.md",
+    "Rough Notes/basics.md",
+    "Rough Notes/Reading drawer.md",
+    "Programming/cpp/Basics.md",
+    "Programming/cpp/Programming.md",
+    "Programming/bsaics.md",
+    "Extras",
+    "Excalidraw",
+    "Templates"
+  ]
+}
