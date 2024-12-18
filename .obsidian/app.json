@@ -2,6 +2,6 @@
   "promptDelete": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "2 - Programming",
-  "spellcheck": false,
+  "spellcheck": true,
   "alwaysUpdateLinks": true
 }
