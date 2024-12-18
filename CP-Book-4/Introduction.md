@@ -79,6 +79,14 @@ int main(){
 }
 ```
 
+> [!tip]
+> Although *scanf/printf* are C-style I/O routines, they can still be used in C++ code. *cin/cout* are not as flexible as scanf/printf and is also (far) slower
+>
+> One can use `ios::sync_with_studio(false); cin.tie(NULL);` to avoid costly synchronization. This way, cin/cout can run faster albeit still a bit slower than scanf/printf
+
+## Getting Started: The Easy Problems
+
+
 ---
 ## References
 
