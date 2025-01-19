@@ -32,7 +32,7 @@ authors: Steven Halim, Felix Halim, Suhendry Efendy
 
 ## Mastering Programming Languages
 
-- Most preferable language is $C++$ (std=gnu++17) with its built-in STL
+- The most preferable language is $C++$ (std=gnu++17) with its built-in STL
 - Java also has powerful built-in libraries and APIs such as BigInteger/BigDecimal, Gregorian Calendar, Regex, etc.
 - Java programs are easier to debug with the virtual machine's ability to provide a stack trace when it crashes (as opposed to core dumps ore segmentation faults in $C/C++$)
 - Suppose to compute $40!$ the answer is very large: $815 915 283 247 897 734 345 611 269 596 115 894 272 000 000 000$ This far exceeds the largest built-in primitive integer data type (unsigned long long: $2^{64}-1$). As there is no built-in arbitrary-precision arithmetic library in C/C++, we would have needed to implement one from scratch.
